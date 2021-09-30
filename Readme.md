@@ -15,4 +15,4 @@ Remove bugs and typos in exsisting codes.
 Documentaion.
 
 How to Contribute?
-To know about contribution process [Click Here!](https://github.com/sattwik21/Python-Practice/Contributing.md)
+To know about contribution process [Click Here!](https://github.com/sattwik21/Python-Practice/blob/master/Contributing.md)
