@@ -2,6 +2,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/sattwik21/Python-Practice?style=social)](https://github.com/sattwik21/Python-Practice/stargazers)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/sattwik21/Python-Practice.svg)](https://github.com/sattwik21/Python-Practice/pulls/)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr-closed/sattwik21/Python-Practice.svg)](https://github.com/sattwik21/Python-Practice/pulls?q=is%3Apr+is%3Aclosed)
+[![GitHub Contributors](https://img.shields.io/github/contributors/sattwik21/Python-Practice.svg)](https://github.com/sattwik21/Python-Practice/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/sattwik21/Python-Practice/Contribution.md)
 
 # Python-Practice
