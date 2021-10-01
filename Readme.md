@@ -12,9 +12,9 @@ The repository is to encourage participants to contribute for open source projec
 
 You can contribute to the project in following ways
 
--Submit your working algorithm and projects in python language.
--Remove bugs and typos in exsisting codes.
--Documentaion.
+* Submit your working algorithm and projects in python language.
+* Remove bugs and typos in exsisting codes.
+* Documentaion.
 
 How to Contribute?
 To know about contribution process [Click Here!](https://github.com/sattwik21/Python-Practice/blob/master/Contributing.md)
