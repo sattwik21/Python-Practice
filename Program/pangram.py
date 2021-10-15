@@ -2,7 +2,7 @@ import string
 
 mylist =[]
 lowercase = list(string.ascii_lowercase)
-string = input()
+string = input("Enter a string. ")
 string = string.lower()
 
 for char in string:
