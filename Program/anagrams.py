@@ -1,5 +1,5 @@
-str1 = input()
-str2 = input()
+str1 = input("Enter a string. ")
+str2 = input("Enter another string. ")
 str1 = str1.lower()
 str2 = str2.lower()
 list1 = []
