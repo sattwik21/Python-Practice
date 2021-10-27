@@ -1,0 +1,5 @@
+from array import *
+print("Bytes to String: ")
+a = array('b', [115, 117, 118, 97,109])
+b = a.tobytes()
+print(b)
