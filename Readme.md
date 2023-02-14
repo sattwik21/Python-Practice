@@ -18,3 +18,6 @@ You can contribute to the project in following ways
 
 How to Contribute?
 To know about contribution process [Click Here!](https://github.com/sattwik21/Python-Practice/blob/master/Contributing.md)
+
+
+It is an awesome repo, keep building.
